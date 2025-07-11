@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">A passionate front end developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **discord-clone**
+- 🔭 I’m currently working on **video-editor app**
 
 - 📫 How to reach me **fatih.cakiir.0@gmail.com**
 
